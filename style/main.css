@@ -102,10 +102,12 @@ footer {
 	}
 	.box {
 		width: 246px;
-		height: 285px;
 
 	}
 	.logo2 {
 		display: none;
+	}
+	footer {
+		height: 250px;
 	}
 }
